@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/biao/cartographer_ws/install/cartographer_ros_msgs/include/**",
+        "/home/biao/ros2_ws/install/rosbridge_test_msgs/include/**",
+        "/home/biao/ros2_ws/install/rosbridge_msgs/include/**",
+        "/home/biao/ros2_ws/install/rosapi_msgs/include/**",
+        "/home/biao/ros2_ws/install/cartographer_ros_msgs/include/**",
+        "/home/biao/ros2_ws/install/amr_rctk/include/**",
+        "/usr/lib64/ros2-humble/include/**",
+        "/home/biao/cartographer_ws/src/cartographer_ros/cartographer_ros/include/**",
+        "/home/biao/cartographer_ws/src/cartographer_ros/cartographer_rviz/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

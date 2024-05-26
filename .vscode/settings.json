@@ -1,0 +1,29 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/biao/cartographer_ws/install/cartographer_ros_msgs/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosbridge_test_msgs/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosbridge_server/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosbridge_msgs/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosapi/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosbridge_library/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosapi_msgs/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/cartographer_ros_msgs/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/amr_rctk/lib/python3.12/site-packages",
+        "/usr/lib64/ros2-humble/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/biao/cartographer_ws/install/cartographer_ros_msgs/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosbridge_test_msgs/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosbridge_server/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosbridge_msgs/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosapi/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosbridge_library/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/rosapi_msgs/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/cartographer_ros_msgs/lib/python3.12/site-packages",
+        "/home/biao/ros2_ws/install/amr_rctk/lib/python3.12/site-packages",
+        "/usr/lib64/ros2-humble/lib/python3.12/site-packages"
+    ],
+    "files.associations": {
+        "core": "cpp"
+    }
+}
